@@ -68,6 +68,7 @@
     font-size: 30px;
     padding: 0 20px;
     line-height: 60px;
+    cursor: pointer;
 
     display: none;
 }
@@ -98,6 +99,9 @@
         padding: 20px 0;
         height: calc(100% - 50px);
         overflow-y: auto;
+
+        left: 100%;
+        transition: left 0.3s;
     }
     
     .nav-menu-item{
@@ -106,6 +110,10 @@
 
     .nav-toggle{
         display: block;
+    }
+
+    .nav-menu_visible {
+        left: 0;
     }
 }
 

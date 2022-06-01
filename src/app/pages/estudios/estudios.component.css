@@ -1,7 +1,7 @@
 .container-fluid{
     margin-top: 80px;
     height: 1200px;
-    background-color: #CCB192;
+    background: linear-gradient(to top, #8DAA89, #4E84A4);
     margin-bottom: -50px;
     padding-bottom: 0px;
     text-align: center;
@@ -40,7 +40,7 @@ h1{
     font-size: 50px;
     text-align: center;
 }
-.aptitudes{
+.estudios{
     padding-top: 20px;
     font-size: 20px;
     font-weight: bold;

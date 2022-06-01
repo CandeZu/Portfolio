@@ -1,7 +1,7 @@
 .container-fluid{
     margin-top: 80px;
     height: 1100px;
-    background-color: #CCB192;
+    background: linear-gradient(20deg, #CCB192, #4E84A4);
     margin-bottom: -50px;
     padding-bottom: 0px;
 }

@@ -1,7 +1,8 @@
 .container-fluid{
     margin-top: 80px;
     height: 800px;
-    background-color: #CCB192;
+    /* background-color: #CCB192; */
+    background: linear-gradient(45deg, #CCB192, #4E84A4);
     margin-bottom: -50px;
     padding-bottom: 0px;
     text-align: center;
